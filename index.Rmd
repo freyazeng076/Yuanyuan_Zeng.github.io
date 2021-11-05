@@ -1,0 +1,28 @@
+---
+title: "Yuanyuan Zeng"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+### This is Yuanyuan Zeng's personal website
+
+Name:Yuanyuan Zeng
+
+Preferred Name: Freya
+
+Nationality: China
+
+Hometown: Guangzhou, Guangdong
+
+#### This is my cat:
+
+He is one year old and likes sleeping
+
+<img src="mycat.png" style="width:50%">
+
+
+### Academic experience
+I graduated in UC Davis with a bachelor's degree in Food Science. I am currently an MS student at Mailman School Of Public Health. Here is my [Resume](Resume.html) page.
+
